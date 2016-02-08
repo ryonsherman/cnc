@@ -1,0 +1,8 @@
+[submodule "Rostock/Marlin"]
+	path = Rostock/Marlin
+	url = https://github.com/MarlinFirmware/Marlin.git
+	branch = RC
+[submodule "KosselMini/Marlin"]
+	path = KosselMini/Marlin
+	url = https://github.com/MarlinFirmware/Marlin.git
+	branch = RC
